@@ -1,0 +1,15 @@
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\Spoofy.exe.config
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\Spoofy.exe
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\Spoofy.pdb
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\Spectre.Console.xml
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\System.Buffers.xml
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\System.Memory.xml
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\System.Numerics.Vectors.xml
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.csproj.AssemblyReference.cache
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.csproj.CoreCompileInputs.cache
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.csproj.Fody.CopyLocal.cache
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.csproj.Up2Date
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.exe
+C:\Users\John Doe\source\repos\Spoofy\Spoofy\obj\Release\Spoofy.pdb
