@@ -9,7 +9,7 @@ namespace Spoofy
 {
     internal static class Program
     {
-        private static readonly string creditsText = "https://cracked.sh/Kap0ne / https://voided.st/Kap0ne";
+        private static readonly string creditsText = "Made By: Kap0ne";
         private static readonly string fancyText = "\r\n\r\n██████████████████████████████████████████████████████████████████████████\r\n█▌                                                                      ▐█\r\n█▌   ██████     ██▓███      ▒█████      ▒█████       █████▒   ▓██   ██▓ ▐█\r\n█▌ ▒██    ▒    ▓██░  ██▒   ▒██▒  ██▒   ▒██▒  ██▒   ▓██   ▒     ▒██  ██▒ ▐█\r\n█▌ ░ ▓██▄      ▓██░ ██▓▒   ▒██░  ██▒   ▒██░  ██▒   ▒████ ░      ▒██ ██░ ▐█\r\n█▌   ▒   ██▒   ▒██▄█▓▒ ▒   ▒██   ██░   ▒██   ██░   ░▓█▒  ░      ░ ▐██▓░ ▐█\r\n█▌ ▒██████▒▒   ▒██▒ ░  ░   ░ ████▓▒░   ░ ████▓▒░   ░▒█░         ░ ██▒▓░ ▐█\r\n█▌ ▒ ▒▓▒ ▒ ░   ▒▓▒░ ░  ░   ░ ▒░▒░▒░    ░ ▒░▒░▒░     ▒ ░          ██▒▒▒  ▐█\r\n█▌ ░ ░▒  ░ ░   ░▒ ░          ░ ▒ ▒░      ░ ▒ ▒░     ░          ▓██ ░▒░  ▐█\r\n█▌ ░  ░  ░     ░░          ░ ░ ░ ▒     ░ ░ ░ ▒      ░ ░        ▒ ▒ ░░   ▐█\r\n█▌       ░                     ░ ░         ░ ░                 ░ ░      ▐█\r\n█▌                                                             ░ ░      ▐█\r\n█▌                                                                      ▐█\r\n██████████████████████████████████████████████████████████████████████████\r\n\r\n";
 
         [STAThread]
